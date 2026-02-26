@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kosher_app_online</string>
+    <string name="device_admin_description">האפליקציה זקופה להתקנת אפליקציות בצורה שקטה באמצעות MDM</string>
+</resources>
