@@ -1,9 +1,9 @@
-
 name: Gemini Code Review
 
 on:
   pull_request:
     types: [opened, synchronize]
+  workflow_dispatch: # זה יאפשר לך להפעיל את זה גם ידנית לבדיקה
 
 jobs:
   review:
@@ -19,4 +19,3 @@ jobs:
         uses: google-gemini/github-action@v1
         with:
           api_key: ${{ secrets.GEMINI_API_KEY }}
-          model: "gemini-1.5-flash" # המודל המהיר והיעיל ביותר לסקירת קוד
