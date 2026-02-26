@@ -1,11 +1,29 @@
 [
   {
-    "name": "Org Fossify Math",
-    "packageName": "org.fossify.math",
+    "name": "דפדפן-Via-בעבריתV6 5 1",
+    "packageName": "דפדפן-via-בעבריתv6.5.1",
     "version": "1.0",
     "versionCode": 1,
-    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/apks/org.fossify.math_10.apk",
-    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/icons/org.fossify.math_icon.png",
+    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/apks/דפדפן-via-בעבריתv6.5.1.apk",
+    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/icons/דפדפן-via-בעבריתv6.5.1_icon.png",
+    "category": "כלים"
+  },
+  {
+    "name": "מתמחים-טופ-20 1 2024-ערוך-לנטפרי",
+    "packageName": "מתמחים-טופ-20.1.2024-ערוך-לנטפרי",
+    "version": "1.0",
+    "versionCode": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/apks/מתמחים-טופ-20.1.2024-ערוך-לנטפרי.apk",
+    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/icons/מתמחים-טופ-20.1.2024-ערוך-לנטפרי_icon.png",
+    "category": "כלים"
+  },
+  {
+    "name": "org.fossify.math",
+    "packageName": "10",
+    "version": "1.0",
+    "versionCode": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/apks/org.fossify.math_10.apk",
+    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/icons/10_icon.png",
     "category": "כלים"
   },
   {
@@ -13,8 +31,17 @@
     "packageName": "owo-v1",
     "version": "1.0",
     "versionCode": 1,
-    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/apks/owo-v1.apk",
-    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/icons/owo-v1_icon.png",
+    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/apks/owo-v1.apk",
+    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/icons/owo-v1_icon.png",
+    "category": "כלים"
+  },
+  {
+    "name": "קול-הלשון-קיוסק-V2 67-ערוך-לנטפרי",
+    "packageName": "קול-הלשון-קיוסק-v2.67-ערוך-לנטפרי",
+    "version": "1.0",
+    "versionCode": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/apks/קול-הלשון-קיוסק-v2.67-ערוך-לנטפרי.apk",
+    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/kosher_app_online/main/icons/קול-הלשון-קיוסק-v2.67-ערוך-לנטפרי_icon.png",
     "category": "כלים"
   }
 ]
