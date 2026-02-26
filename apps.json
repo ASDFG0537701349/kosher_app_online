@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Org Fossify Math",
+    "packageName": "org.fossify.math",
+    "version": "1.0",
+    "versionCode": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/apks/org.fossify.math_10.apk",
+    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/icons/org.fossify.math_icon.png",
+    "category": "כלים"
+  },
+  {
+    "name": "Owo-V1",
+    "packageName": "owo-v1",
+    "version": "1.0",
+    "versionCode": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/apks/owo-v1.apk",
+    "iconUrl": "https://raw.githubusercontent.com/ASDFG0537701349/my-app-store/main/icons/owo-v1_icon.png",
+    "category": "כלים"
+  }
+]
